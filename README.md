@@ -2,11 +2,12 @@ This README outlines five exciting Python project ideas in this repo that will h
 Level: Beginner
 
 1. To-Do List Application:
-
 Manage and organize your tasks efficiently.
 Create, update, and track your to-do lists.
 Choose between a command-line or GUI interface using Python.
-Bonus: Implement priority levels and due dates for tasks.
+Bonus: I added the delete_tasks and list_tasks functionalities to make it work like a complete but simple to do list.
+To run the code on the cmd type ./to_do_list.py
+
 2. Simple Calculator:
 
 Design a basic calculator with arithmetic operations.
