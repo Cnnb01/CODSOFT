@@ -1,0 +1,3 @@
+The random module in Python provides us with various functions that help us to randomly choose among various values.
+    The choice() method selects a random value (or element) from the provided sequence.
+    The sample() method only chooses unique value(s) from the provided sequence.(prevents repetition of some chars hence all chars are unique). It takes two parameters. The first parameter is the original sequence from which the output random sequence has to be generated. The second parameter is the length of the random sample that needs to be generated.
